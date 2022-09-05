@@ -12,7 +12,7 @@ To play, just guess a letter by typing your guess on your keyboard. If you guess
 <ol>
   <li>Download or save a copy of the "word.txt" file from this repository anywhere on your local computer or laptop</li>
     <ul>
-      <li>No need to define the absolute pathway or location of the "word.txt" file in the code. The open() function is written to pull  the relative path.</li>
+      <li>No need to define the absolute pathway or location of the "word.txt" file in the code. The `open()` function is written to pull the relative path.</li>
     </ul
   <li>At the start of the game, the number of letters that the secret word contains will be revealed.</li>
   <li>Players will be allowed one guess (i.e. letter) per round (with a total of 9 rounds)
