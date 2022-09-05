@@ -6,7 +6,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/112219182/188354709-2ed09b6e-e7a1-4d08-bbfa-0c18e423e718.jpg" width=200px>  
 <p align='justify'> This is a rudimentary, traditional game of Hangman. It was written in Python without the use of any APIs or libraries. Instead, the game relies on uploading an extensive list of words in a text file named "word.txt". From there, a word from the list is chosen at random for the player to guess. 
 <br><br>
-To play, just guess a letter by typing your guess on your keyboard. If you guess incorrectly 9 times, you lose. If you guess the word before that happens, you win. After you win or lose, you can restart the game by pressing any key on the keyboard.</p>
+To play, just guess a letter by typing your guess on your keyboard. If you guess incorrectly 9 times, you lose. If you guess the word before that happens, you win.</p>
 
 <h3> User Directions </h3>
 <ol>
